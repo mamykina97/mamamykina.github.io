@@ -1,7 +1,7 @@
 .font-regular {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .font-black {
@@ -49,14 +49,14 @@ body {
 }
 
 .navbar {
-  background-color: rgba( 255, 255, 2555, .0);
+  background-color: rgba( 0, 255, 2555, 1.0);
   border-bottom: 0 none;
   font-size: 12px;
   transition: .25s all linear;
 }
 
 .navbar .nav a {
-  color: #fff;
+  color: #f0f;
   font-weight: 400;
   font-size: 16px;
 }
@@ -69,7 +69,7 @@ body {
 }
 
 .navbar-scrolled {
-  background-color: rgba( 0, 0, 0, .5);
+  background-color: rgba( 0, 255, 255, .9);
 }
 
 .navbar-toggle i {
@@ -106,8 +106,8 @@ body {
 }
 
 #intro {
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #00FFFF;
+  color: #FF00FF;
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
